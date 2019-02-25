@@ -1,0 +1,74 @@
+body {
+  background-color: white;
+}
+h1, h2 {
+  color: black;
+  text-align: center;
+}
+.thetop {Background-color:navy}
+#top {
+  background-image: radial-gradient(blue, navy 50%);
+padding: 50px;}
+.rainbow {
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text; <!--https://rainbowcoding.com/2011/12/02/how-to-create-rainbow-text-in-html-css-javascript/-->
+}
+img {
+float: center
+}
+p {
+  color: black;
+}
+table,th, td {
+             border: 1px solid black;
+             border-collapse: collapse;
+             }
+th,td {padding: 15px}
+td {text-align: center}
+li,ol {text-align: left}
+
+.imgcenter{
+    display: block;
+    margin-left: 1%;
+
+    width: 30%;}
+.sidepic {
+  width:20%;
+  margin-left: auto;
+  margin-right: auto;
+  }
+#menu {list-style-type: none;
+
+  padding: 0;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: linear-gradient(to bottom, yellow 50%, #B8860B ) ;}
+#menulist { float:left;}
+ li a{   display: block;
+  color: black;
+  width: 75%;
+  margin-left: 10%;
+  margin-right: auto;
+  padding: 16px;
+  text-decoration: none;
+   font-weight: bold;
+}
+.sidebar {
+     background-color: yellow;
+     width: 15%;
+     float: right;
+     top: 0;
+     left: 0;
+
+
+}
+.sidebar li {
+ padding: 10px 10px 10px 10px;
+ text-decoration: none;
+ color: blue;
+ display block;
+}
