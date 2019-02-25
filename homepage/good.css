@@ -44,8 +44,10 @@ h2 {color:brown;
     width: 25%;}
 p {margin-left:50px;
   text-indent: 1em;
-   width:85%;}
+   margin-right:12%;
+   width: 75%}
 table,th, td {margin-left:50px;
+              margin-right: 12%;
              border: 1px solid black;
              border-collapse: collapse;
              }
