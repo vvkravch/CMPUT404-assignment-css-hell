@@ -16,7 +16,7 @@ All the references to the  original sources of css styling are mentioned in the 
 License/Copyright
 =================
 
-Textual content is copyright Vlad Kravchenko (C) 2013 under the CC-BY-SA
+Textual content is copyright Vlad Kravchenko (C)  under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2019 Vlad Krachenko visibile in the text.
 
