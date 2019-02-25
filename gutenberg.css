@@ -1,0 +1,47 @@
+ body { margin: 5%; background-image:linear-gradient(to right, #DEB887 , #f8f5de 50%, #DEB887  );
+                     }
+
+
+pre        { text-align:center; font-style: italic; font-size: 90%; margin-left: auto; margin-right:auto}
+img {
+  border-radius:10%}
+img:hover{
+ -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);}
+
+h1,h2 { display:block;
+
+  color: brown;
+ padding: 0.5em 0.5em 0.5em 0.5em;
+  border-radius:10px;
+  text-align: center;
+  margin-left:20%;
+  margin-right:20%;
+
+       text-decoration: underline overline;
+       text-decoration-style: dotted;
+
+}
+
+blockquote {color:brown;
+            font-size: 97%;
+            font-style: oblique;
+            margin-left: 10%;
+            margin-right: 10%;}
+
+.centertable {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+#first { color:brown;
+               float: left;
+               font-style: italic;
+               font-size: 4em;
+               padding-right: 10px;
+               line-height: 30px;
+               top 10 px;
+               position: relative;
+              } <!--inspired by https://codepen.io/efost/pen/rrjvkk-->
