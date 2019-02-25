@@ -4,11 +4,11 @@
 
 pre        { text-align:center; font-style: italic; font-size: 90%; margin-left: auto; margin-right:auto}
 img {
-  border-radius:10%}
+  border-radius:25%}
 img:hover{
  -webkit-transform: scaleX(-1);
   transform: scaleX(-1);}
-
+#titleF {color:brown}
 h1,h2 { display:block;
 
   color: brown;
